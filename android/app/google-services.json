@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1001090754895",
+    "project_id": "council-app-4cb5f",
+    "storage_bucket": "council-app-4cb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001090754895:android:2b8b4354eb6981b4c3bd3a",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001090754895-96mev2vl5e25hrp1sa59pohtismghm2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "9208aa6fb54fccf795f61d22dd18ba192595e588"
+          }
+        },
+        {
+          "client_id": "1001090754895-d39f7s1v4o2qh1egiroh53c90k99neeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkG-9oimW5bad69_GPXC8WHyrZP5MTRZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001090754895-d39f7s1v4o2qh1egiroh53c90k99neeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

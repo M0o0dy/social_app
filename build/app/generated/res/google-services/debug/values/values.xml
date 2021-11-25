@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1001090754895-d39f7s1v4o2qh1egiroh53c90k99neeb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1001090754895</string>
+    <string name="google_api_key" translatable="false">AIzaSyAkG-9oimW5bad69_GPXC8WHyrZP5MTRZs</string>
+    <string name="google_app_id" translatable="false">1:1001090754895:android:2b8b4354eb6981b4c3bd3a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkG-9oimW5bad69_GPXC8WHyrZP5MTRZs</string>
+    <string name="google_storage_bucket" translatable="false">council-app-4cb5f.appspot.com</string>
+    <string name="project_id" translatable="false">council-app-4cb5f</string>
+</resources>

@@ -1,0 +1,129 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7c184ad8b3c49a0c098ef639132f1afe4"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7e5199a3f70555689be7018ee7f9f878d"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7d57b8bce60a0f11113f4cff532db68d3"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7b762d5de103fb6cfc7506aa6be1d4f33"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7a408a4c1f668e62161cdeba76f57d50c"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7d367f2c9826e0c44989d081ca3d0f4ca"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7c075cc473fa5680b867d51f1363214ff"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7f1e09b32067e7d86144abdaf0d62fddc"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf79da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7dd3a6a519ed4181bf31ea6bc1f18ebc5"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7d3c8dfff2c580c352f83d3850ad17775"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7718890dfdac589615663a02d43d9af3e"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7f10882e1684b8a3dfdec597bc0a47af3"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7355cff7d758029119bc2218cc297bc97"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7cb446d83a55866e5ca0338d00b7158fb"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf79840e8244cb75f43b3efe8cd6dec5ec5"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf73788d8769c821650606514be955fca93"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf77f74324bfc5c78140e34d510e26e00c1"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf79d292f50e4c2028f52cecf251b83e6fe"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7839a1650b1f10605b2db52456c9e6468"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7d7de55694c750fe04d3bc1517f91a481"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7fdca3e568c0d4fe17f0e20bbe764df0d"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf76836e78755c7a49cbac94d6710bb39cc"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7543ab73053b8b8a6189d809226b11707"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7bf764fd5de43d0e244cbe6e2f69c1731"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf7812cb744006e837a06a1ec7fcf8ca389"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf70062393f91a1d2d94e3e5ed3a5aa5da9"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf758e43d378bdedc3ceb60c1adb0f770ac"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf73786431ce548989b846bbf1a7384f58e"
+    },
+    {
+      "guid" : "cc6dae86f2b8a1c5269e3a2656a81cf722ec4dd39c676b6a04edc68704df6cd0"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/mahmoudkhalil/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mahmoudkhalil/Library/Developer/Xcode/DerivedData/Pods-fyjkvrwxlsivddbdeehildnmucxz/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mahmoudkhalil/Library/Developer/Xcode/DerivedData/Pods-fyjkvrwxlsivddbdeehildnmucxz/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

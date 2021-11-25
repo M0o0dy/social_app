@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mahmoudkhalil/StudioProjects/social_app/build/webview_flutter_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/mahmoudkhalil/.gradle/caches/transforms-2/files-2.1/2db3f50da0350e0db9d990e4090e09c2/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/mahmoudkhalil/StudioProjects/social_app/build/webview_flutter_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/mahmoudkhalil/.gradle/caches/transforms-2/files-2.1/2db3f50da0350e0db9d990e4090e09c2/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mahmoudkhalil/StudioProjects/social_app/build/webview_flutter_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/mahmoudkhalil/.gradle/caches/transforms-2/files-2.1/2db3f50da0350e0db9d990e4090e09c2/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/mahmoudkhalil/StudioProjects/social_app/build/webview_flutter_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/mahmoudkhalil/.gradle/caches/transforms-2/files-2.1/2db3f50da0350e0db9d990e4090e09c2/core-1.1.0/res/drawable/notification_bg.xml"
+    }
+]
